@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="app/src/main/res/drawable/icon.png" width="120" alt="云析 YunX" />
+<img width="107" height="104" alt="1000081611" src="https://github.com/user-attachments/assets/438151e5-a79d-41d5-aa50-ea92637350ad" />
 
-# 云析 · YunX
+
+# 云帆助手 · YunFan-Assistant
 
 **粘贴分享链接，直接高速下载 —— 一个开源的 Android 网盘 / 视频解析下载应用**
 
